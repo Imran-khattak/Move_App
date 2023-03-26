@@ -1,16 +1,9 @@
-# xflix
+# 9xflix
 
-A new Flutter project.
+Overall, a movie app using TMDB API that provides users with access to information about Top Rated movies, TV shows, and Trending movies can be a great tool for movie enthusiasts who want to stay up-to-date with the latest and most popular movies and TV shows.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1679858402](https://user-images.githubusercontent.com/98551202/227799426-8621b4f4-cacb-4884-b462-d83ede54f0e0.png)
+![Screenshot_1679858422](https://user-images.githubusercontent.com/98551202/227799435-e946667c-4899-4489-bd41-79e8e6cb3d06.png)
+![Screenshot_1679858412](https://user-images.githubusercontent.com/98551202/227799440-d2942e07-27d9-4dd4-bea6-9dfd596a4aaa.png)
