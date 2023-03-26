@@ -1,6 +1,11 @@
 # 9xflix
 
-Overall, a movie app using TMDB API that provides users with access to information about Top Rated movies, TV shows, and Trending movies can be a great tool for movie enthusiasts who want to stay up-to-date with the latest and most popular movies and TV shows.
+**Overall, a movie app using TMDB API that provides users with access to information about Top Rated movies, TV shows, and Trending movies can be a great tool for movie enthusiasts who want to stay up-to-date with the latest and most popular movies and TV shows.**
+
+
+
+
+
 
 
 
